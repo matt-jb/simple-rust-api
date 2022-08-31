@@ -6,7 +6,7 @@ Easiest is to just clone the repository locally or download it. Then run it eith
 
 ## Endpoints
 
-##### /calculateDisselUsageForDistance
+##### /calculateDieselUsageForDistance
 Query parameters (all are u32 and required):
 - distance
 - yearOfProduction
