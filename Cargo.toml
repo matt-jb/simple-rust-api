@@ -11,3 +11,5 @@ serde = { version = "1.0.144", features = ["derive"] }
 chrono = "0.4"
 vin = "1.0.0"
 rand = "0.8.5"
+env_logger = "0.8"
+log = "0.4"
